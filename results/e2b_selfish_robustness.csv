@@ -1,0 +1,271 @@
+orphan_rate,attacker_share,max_reorg,rejected_reorgs,ds_success,victim_loss,attacker_net,confirm_delay,refused,alert,detect_time,false_alarm,detector_cpu,n_nodes,delay,config
+0.158,0.30996309963099633,10,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.16816816816816818,0.3747645951035782,5,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.154,0.315018315018315,6,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.15747241725175526,0.30925925925925923,4,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.149,0.32667876588021777,3,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.153,0.30347349177330896,5,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.163,0.35567970204841715,8,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.149,0.308529945553539,4,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.15015015015015015,0.3205828779599271,2,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.148,0.2807971014492754,7,0,,0.0,,,False,False,,False,0.0,10,5,attacked (first-seen)
+0.168,0.38533834586466165,6,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.15415415415415415,0.3541284403669725,2,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.147,0.298372513562387,4,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.146,0.31227436823104693,4,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.161,0.3525046382189239,4,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.171,0.3742911153119093,4,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.17,0.38113207547169814,3,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.149,0.33756805807622503,2,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.159,0.34935304990757854,4,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.144,0.2931654676258993,3,0,,0.0,,,False,False,,False,0.0,10,5,reference: random tie-break
+0.158,0.2730627306273063,12,0,,0.0,,,False,True,11543.43496518713,False,0.016102199791930616,10,5,proposed: detect -> freshness rule
+0.16816816816816818,0.3446327683615819,12,0,,0.0,,,False,True,11958.251680605725,False,0.033139601116999984,10,5,proposed: detect -> freshness rule
+0.154,0.2838827838827839,9,0,,0.0,,,False,True,11139.86637370722,False,0.02126190031412989,10,5,proposed: detect -> freshness rule
+0.15747241725175526,0.27037037037037037,8,0,,0.0,,,False,True,18434.688136440556,False,0.02151300059631467,10,5,proposed: detect -> freshness rule
+0.149,0.29219600725952816,6,0,,0.0,,,False,True,12305.651872020826,False,0.030215899809263647,10,5,proposed: detect -> freshness rule
+0.153,0.26691042047531993,8,0,,0.0,,,False,True,19005.98313642392,False,0.021922299987636507,10,5,proposed: detect -> freshness rule
+0.163,0.3165735567970205,9,0,,0.0,,,False,True,16988.14401171985,False,0.01870189979672432,10,5,proposed: detect -> freshness rule
+0.149,0.2813067150635209,8,0,,0.0,,,False,True,12102.636663706595,False,0.016888400190509856,10,5,proposed: detect -> freshness rule
+0.15015015015015015,0.2659380692167577,6,0,,0.0,,,False,True,17555.31582644448,False,0.027065600268542767,10,5,proposed: detect -> freshness rule
+0.148,0.25181159420289856,13,0,,0.0,,,False,True,15220.22896993332,False,0.03515679994598031,10,5,proposed: detect -> freshness rule
+0.165,0.3177570093457944,10,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.17117117117117117,0.3787878787878788,5,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.157,0.31307550644567217,5,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.160481444332999,0.3128491620111732,4,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.153,0.33089579524680074,3,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.158,0.3062730627306273,5,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.17,0.35660377358490564,8,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.155,0.3155963302752294,4,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.15615615615615616,0.32228360957642727,2,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.154,0.2802197802197802,7,0,,0.0,,,False,False,,False,0.0,10,10,attacked (first-seen)
+0.15,0.33636363636363636,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.154,0.3241758241758242,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.153,0.3126142595978062,2,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.146,0.2851985559566787,4,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.169,0.3728813559322034,5,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.166,0.37453183520599254,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.17117117117117117,0.35984848484848486,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.154,0.33516483516483514,2,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.162,0.34944237918215615,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.153,0.30347349177330896,3,0,,0.0,,,False,False,,False,0.0,10,10,reference: random tie-break
+0.165,0.2803738317757009,12,0,,0.0,,,False,True,10951.176846542774,False,0.0280412002466619,10,10,proposed: detect -> freshness rule
+0.17117117117117117,0.3484848484848485,12,0,,0.0,,,False,True,16731.638301937288,False,0.018339299596846104,10,10,proposed: detect -> freshness rule
+0.157,0.281767955801105,9,0,,0.0,,,False,True,15963.049654668022,False,0.018164900480769575,10,10,proposed: detect -> freshness rule
+0.160481444332999,0.2737430167597765,8,0,,0.0,,,False,True,18139.012470991,False,0.01454209943767637,10,10,proposed: detect -> freshness rule
+0.153,0.29250457038391225,6,0,,0.0,,,False,True,12309.662043394026,False,0.014491400215774775,10,10,proposed: detect -> freshness rule
+0.158,0.2693726937269373,8,0,,0.0,,,False,True,18791.12726886396,False,0.02590789960231632,10,10,proposed: detect -> freshness rule
+0.17,0.3169811320754717,9,0,,0.0,,,False,True,16113.084922525042,False,0.014196099597029388,10,10,proposed: detect -> freshness rule
+0.155,0.28807339449541286,8,0,,0.0,,,False,True,29023.993181798025,False,0.020525999716483057,10,10,proposed: detect -> freshness rule
+0.15615615615615616,0.26887661141804786,6,0,,0.0,,,False,True,17041.6762105292,False,0.0225203005829826,10,10,proposed: detect -> freshness rule
+0.154,0.25274725274725274,13,0,,0.0,,,False,True,14876.375747450598,False,0.01744279987178743,10,10,proposed: detect -> freshness rule
+0.176,0.3110687022900763,10,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.1881881881881882,0.3816046966731898,5,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.17,0.3150943396226415,7,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.17352056168505517,0.3148854961832061,4,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.165,0.34392523364485983,4,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.167,0.31144465290806755,5,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.181,0.3622350674373796,8,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.168,0.31390977443609025,4,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.16616616616616617,0.30956848030018763,3,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.17017017017017017,0.2948960302457467,7,0,,0.0,,,False,False,,False,0.0,10,30,attacked (first-seen)
+0.16332665330661322,0.3364485981308411,4,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.176,0.34541984732824427,2,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.167,0.3395872420262664,3,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.173,0.36242884250474383,4,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.18118118118118118,0.3436293436293436,5,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.189,0.350293542074364,4,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.182,0.37065637065637064,4,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.17,0.4169811320754717,3,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.18775100401606426,0.3693516699410609,4,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.182,0.3301158301158301,5,0,,0.0,,,False,False,,False,0.0,10,30,reference: random tie-break
+0.176,0.2786259541984733,12,0,,0.0,,,False,True,16401.639585680095,False,0.011684400495141745,10,30,proposed: detect -> freshness rule
+0.1881881881881882,0.3816046966731898,5,0,,0.0,,,False,True,12882.211405812268,False,0.016356099396944046,10,30,proposed: detect -> freshness rule
+0.17,0.2792452830188679,11,0,,0.0,,,False,True,18309.931686300202,False,0.012149299727752805,10,30,proposed: detect -> freshness rule
+0.17352056168505517,0.2767175572519084,8,0,,0.0,,,False,True,15543.292561724316,False,0.030071000452153385,10,30,proposed: detect -> freshness rule
+0.165,0.3121495327102804,6,0,,0.0,,,False,True,20870.59868069357,False,0.02123869932256639,10,30,proposed: detect -> freshness rule
+0.167,0.31144465290806755,5,0,,0.0,,,False,True,237700.2511483154,False,0.014225400285795331,10,30,proposed: detect -> freshness rule
+0.181,0.3371868978805395,8,0,,0.0,,,False,True,27573.08584990818,False,0.013684100122191012,10,30,proposed: detect -> freshness rule
+0.168,0.287593984962406,8,0,,0.0,,,False,True,26963.615805426904,False,0.014073700294829905,10,30,proposed: detect -> freshness rule
+0.16616616616616617,0.27392120075046905,6,0,,0.0,,,False,True,19495.1408984554,False,0.01322090020403266,10,30,proposed: detect -> freshness rule
+0.17017017017017017,0.2741020793950851,8,0,,0.0,,,False,True,34534.12743836595,False,0.025772200315259397,10,30,proposed: detect -> freshness rule
+0.15415415415415415,0.30642201834862387,4,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.1676706827309237,0.3667296786389414,5,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.144,0.3435251798561151,4,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.15115115115115116,0.31386861313868614,3,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.153,0.2979890310786106,2,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.152,0.3248175182481752,2,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.166,0.350187265917603,5,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.166,0.35580524344569286,8,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.16716716716716717,0.34210526315789475,5,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.144,0.26618705035971224,2,0,,0.0,,,False,False,,False,0.0,20,5,attacked (first-seen)
+0.149,0.3030852994555354,4,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.159,0.3031423290203327,3,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.172,0.3693181818181818,4,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.166,0.33707865168539325,4,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.14614614614614616,0.31464737793851716,3,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.147,0.3508137432188065,3,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.159,0.33826247689463956,3,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.15963855421686746,0.31098696461824954,4,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.148,0.31521739130434784,3,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.146,0.30866425992779783,4,0,,0.0,,,False,False,,False,0.0,20,5,reference: random tie-break
+0.15415415415415415,0.26422018348623855,5,0,,0.0,,,False,True,15808.146014544618,False,0.016825399710796773,20,5,proposed: detect -> freshness rule
+0.1676706827309237,0.33648393194706994,9,0,,0.0,,,False,True,11126.715905927995,False,0.014463900472037494,20,5,proposed: detect -> freshness rule
+0.144,0.29856115107913667,9,0,,0.0,,,False,True,21316.82746192065,False,0.02866659965366125,20,5,proposed: detect -> freshness rule
+0.15115115115115116,0.3102189781021898,5,0,,0.0,,,False,True,330490.3891244519,False,0.01454289979301393,20,5,proposed: detect -> freshness rule
+0.153,0.2449725776965265,4,0,,0.0,,,False,True,6925.196829082648,False,0.018684100010432303,20,5,proposed: detect -> freshness rule
+0.152,0.2718978102189781,4,0,,0.0,,,False,True,8784.441784379625,False,0.027933700126595795,20,5,proposed: detect -> freshness rule
+0.166,0.2940074906367041,11,0,,0.0,,,False,True,23251.621383053745,False,0.015976899885572493,20,5,proposed: detect -> freshness rule
+0.166,0.32209737827715357,20,0,,0.0,,,False,True,11718.324823569623,False,0.014304799726232886,20,5,proposed: detect -> freshness rule
+0.16716716716716717,0.3082706766917293,10,0,,0.0,,,False,True,13647.105102680798,False,0.01668840041384101,20,5,proposed: detect -> freshness rule
+0.144,0.22482014388489208,2,0,,0.0,,,False,True,12540.61743042391,False,0.025178299751132727,20,5,proposed: detect -> freshness rule
+0.15715715715715717,0.3118081180811808,4,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.1716867469879518,0.36952380952380953,5,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.147,0.3453887884267631,4,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.15415415415415415,0.3192660550458716,4,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.154,0.29304029304029305,2,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.153,0.3217550274223035,2,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.171,0.3516068052930057,5,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.172,0.35795454545454547,8,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.17017017017017017,0.34026465028355385,5,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.148,0.266304347826087,2,0,,0.0,,,False,False,,False,0.0,20,10,attacked (first-seen)
+0.165,0.34392523364485983,4,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.15415415415415415,0.3100917431192661,3,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.15615615615615616,0.3296500920810313,4,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.17017017017017017,0.3383742911153119,3,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.151,0.3132969034608379,3,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.149,0.35208711433756806,6,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.16,0.31851851851851853,3,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.144,0.2787769784172662,2,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.147,0.298372513562387,4,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.149,0.30671506352087113,3,0,,0.0,,,False,False,,False,0.0,20,10,reference: random tie-break
+0.15715715715715717,0.2730627306273063,5,0,,0.0,,,False,True,14320.167841721355,False,0.02414170023985207,20,10,proposed: detect -> freshness rule
+0.1716867469879518,0.34285714285714286,8,0,,0.0,,,False,True,20318.3975925954,False,0.012496799929067492,20,10,proposed: detect -> freshness rule
+0.147,0.298372513562387,9,0,,0.0,,,False,True,20650.39999422428,False,0.020038899732753634,20,10,proposed: detect -> freshness rule
+0.15415415415415415,0.3192660550458716,4,0,,0.0,,,False,False,,False,0.017397100804373622,20,10,proposed: detect -> freshness rule
+0.154,0.2454212454212454,4,0,,0.0,,,False,True,12656.413040035288,False,0.01419449970126152,20,10,proposed: detect -> freshness rule
+0.153,0.27239488117001825,4,0,,0.0,,,False,True,8787.681150346063,False,0.013968399609439075,20,10,proposed: detect -> freshness rule
+0.171,0.33648393194706994,7,0,,0.0,,,False,True,293156.494974999,False,0.04397649958264083,20,10,proposed: detect -> freshness rule
+0.172,0.35795454545454547,8,0,,0.0,,,False,True,307129.8010355879,False,0.017098800162784755,20,10,proposed: detect -> freshness rule
+0.17017017017017017,0.31758034026465026,10,0,,0.0,,,False,True,16091.717239343503,False,0.013371299486607313,20,10,proposed: detect -> freshness rule
+0.148,0.2246376811594203,2,0,,0.0,,,False,True,16475.17900064253,False,0.014065398834645748,20,10,proposed: detect -> freshness rule
+0.17217217217217218,0.3092979127134725,4,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.18674698795180722,0.3843137254901961,4,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.166,0.3408239700374532,3,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.17017017017017017,0.31758034026465026,4,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.17,0.2981132075471698,2,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.168,0.3101503759398496,3,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.197,0.38767395626242546,4,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.186,0.35992217898832685,7,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.18118118118118118,0.3436293436293436,5,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.167,0.26641651031894936,2,0,,0.0,,,False,False,,False,0.0,20,30,attacked (first-seen)
+0.177,0.37667304015296366,5,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.18218218218218218,0.344294003868472,4,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.17917917917917917,0.38653846153846155,4,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.187,0.34307992202729043,4,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.182,0.333976833976834,4,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.172,0.2897727272727273,3,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.174,0.36311787072243346,3,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.1523046092184369,0.29853479853479853,3,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.164,0.31529850746268656,3,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.177,0.32887189292543023,4,0,,0.0,,,False,False,,False,0.0,20,30,reference: random tie-break
+0.17217217217217218,0.29411764705882354,5,0,,0.0,,,False,True,28393.970016392384,False,0.02207649953197688,20,30,proposed: detect -> freshness rule
+0.18674698795180722,0.3568627450980392,9,0,,0.0,,,False,True,18641.873828900425,False,0.028072999557480216,20,30,proposed: detect -> freshness rule
+0.166,0.299625468164794,6,0,,0.0,,,False,True,19870.680567469593,False,0.020950800040736794,20,30,proposed: detect -> freshness rule
+0.17017017017017017,0.31758034026465026,4,0,,0.0,,,False,False,,False,0.013058000360615551,20,30,proposed: detect -> freshness rule
+0.17,0.2981132075471698,2,0,,0.0,,,False,False,,False,0.02265859954059124,20,30,proposed: detect -> freshness rule
+0.168,0.27631578947368424,6,0,,0.0,,,False,True,11361.265287793678,False,0.020086699980311096,20,30,proposed: detect -> freshness rule
+0.197,0.33001988071570576,11,0,,0.0,,,False,True,20587.84237211314,False,0.013479199958965182,20,30,proposed: detect -> freshness rule
+0.186,0.3346303501945525,17,0,,0.0,,,False,True,23847.598914819595,False,0.011866400600410998,20,30,proposed: detect -> freshness rule
+0.18118118118118118,0.32432432432432434,10,0,,0.0,,,False,True,27295.502523090807,False,0.013068099389784038,20,30,proposed: detect -> freshness rule
+0.167,0.2270168855534709,2,0,,0.0,,,False,True,17176.87328831185,False,0.04681939980946481,20,30,proposed: detect -> freshness rule
+0.146,0.3176895306859206,4,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.157,0.3425414364640884,4,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.13713713713713713,0.28825622775800713,4,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.161,0.3692022263450835,5,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.15446339017051153,0.30386740331491713,4,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.135,0.26548672566371684,2,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.1576305220883534,0.33766233766233766,5,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.165,0.3532710280373832,5,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.147,0.3074141048824593,7,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.143,0.2998204667863555,2,0,,0.0,,,False,False,,False,0.0,50,5,attacked (first-seen)
+0.14414414414414414,0.3063063063063063,4,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.146,0.2924187725631769,2,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.144,0.3057553956834532,3,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.15615615615615616,0.34990791896869244,4,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.147,0.31464737793851716,2,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.153,0.3382084095063985,3,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.14729458917835672,0.29945553539019965,5,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.15115115115115116,0.33211678832116787,4,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.15,0.32727272727272727,2,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.14214214214214213,0.30341113105924594,3,0,,0.0,,,False,False,,False,0.0,50,5,reference: random tie-break
+0.146,0.26895306859205775,4,0,,0.0,,,False,True,19043.609396662447,False,0.0197019005427137,50,5,proposed: detect -> freshness rule
+0.157,0.3425414364640884,4,0,,0.0,,,False,False,,False,0.026566899847239256,50,5,proposed: detect -> freshness rule
+0.13713713713713713,0.25444839857651247,6,0,,0.0,,,False,True,23431.13519350291,False,0.014716900303028524,50,5,proposed: detect -> freshness rule
+0.161,0.3209647495361781,17,0,,0.0,,,False,True,12133.060377231479,False,0.02335310005582869,50,5,proposed: detect -> freshness rule
+0.15446339017051153,0.26703499079189685,9,0,,0.0,,,False,True,11148.26700161837,False,0.014945499715395272,50,5,proposed: detect -> freshness rule
+0.135,0.26548672566371684,2,0,,0.0,,,False,False,,False,0.028102799667976797,50,5,proposed: detect -> freshness rule
+0.1576305220883534,0.3228200371057514,8,0,,0.0,,,False,True,8337.812717358698,False,0.016039899084717035,50,5,proposed: detect -> freshness rule
+0.165,0.30467289719626167,12,0,,0.0,,,False,True,13614.083893318428,False,0.020515999873168766,50,5,proposed: detect -> freshness rule
+0.147,0.2820976491862568,10,0,,0.0,,,False,True,13943.591134208604,False,0.017045100452378392,50,5,proposed: detect -> freshness rule
+0.143,0.2585278276481149,5,0,,0.0,,,False,True,14110.082302792638,False,0.015505800140090287,50,5,proposed: detect -> freshness rule
+0.159,0.32717190388170053,2,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.162,0.3513011152416357,4,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.14114114114114115,0.2849462365591398,4,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.168,0.37593984962406013,6,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.1584754262788365,0.3116883116883117,4,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.138,0.2669039145907473,2,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.15963855421686746,0.32774674115456237,5,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.168,0.35714285714285715,5,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.152,0.3102189781021898,7,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.149,0.30671506352087113,2,0,,0.0,,,False,False,,False,0.0,50,10,attacked (first-seen)
+0.13,0.24210526315789474,3,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.16,0.3388888888888889,3,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.162,0.36059479553903345,4,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.16,0.3592592592592593,4,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.14614614614614616,0.3345388788426763,3,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.154,0.32234432234432236,5,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.149,0.32304900181488205,2,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.149,0.2958257713248639,5,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.15815815815815815,0.33086876155268025,3,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.156,0.35661764705882354,2,0,,0.0,,,False,False,,False,0.0,50,10,reference: random tie-break
+0.159,0.2828096118299446,4,0,,0.0,,,False,True,18266.570667777036,False,0.02100269973743707,50,10,proposed: detect -> freshness rule
+0.162,0.3513011152416357,4,0,,0.0,,,False,False,,False,0.06178839935455471,50,10,proposed: detect -> freshness rule
+0.14114114114114115,0.25448028673835127,6,0,,0.0,,,False,True,20917.834720098384,False,0.01762530009727925,50,10,proposed: detect -> freshness rule
+0.168,0.32706766917293234,17,0,,0.0,,,False,True,11696.265247714531,False,0.018193400115706027,50,10,proposed: detect -> freshness rule
+0.1584754262788365,0.2727272727272727,9,0,,0.0,,,False,True,11046.564998643094,False,0.01592200028244406,50,10,proposed: detect -> freshness rule
+0.138,0.2669039145907473,2,0,,0.0,,,False,False,,False,0.017161000170744956,50,10,proposed: detect -> freshness rule
+0.15963855421686746,0.31471135940409684,8,0,,0.0,,,False,True,25210.32587414334,False,0.018638600129634142,50,10,proposed: detect -> freshness rule
+0.168,0.31390977443609025,12,0,,0.0,,,False,True,12042.81583324651,False,0.015030599781312048,50,10,proposed: detect -> freshness rule
+0.152,0.2864963503649635,10,0,,0.0,,,False,True,45042.08778370923,False,0.020946200122125447,50,10,proposed: detect -> freshness rule
+0.149,0.2631578947368421,5,0,,0.0,,,False,True,13560.240054898779,False,0.0193473007529974,50,10,proposed: detect -> freshness rule
+0.171,0.3270321361058601,3,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.181,0.3622350674373796,6,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.15515515515515516,0.3014705882352941,4,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.188,0.3671875,6,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.17853560682046138,0.3179190751445087,4,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.156,0.2610294117647059,2,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.17269076305220885,0.33396946564885494,5,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.177,0.3575525812619503,5,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.165,0.3121495327102804,7,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.17,0.3132075471698113,2,0,,0.0,,,False,False,,False,0.0,50,30,attacked (first-seen)
+0.172,0.32954545454545453,3,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.15,0.2636363636363636,3,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.182,0.3590733590733591,5,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.173,0.3301707779886148,2,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.16633266533066132,0.3007518796992481,3,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.17917917917917917,0.36153846153846153,4,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.181,0.3448940269749518,4,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.175,0.33714285714285713,3,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.173,0.3206831119544592,2,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.161,0.2894248608534323,4,0,,0.0,,,False,False,,False,0.0,50,30,reference: random tie-break
+0.171,0.28733459357277885,3,0,,0.0,,,False,True,11632.732281448145,False,0.022893999586813152,50,30,proposed: detect -> freshness rule
+0.181,0.3179190751445087,9,0,,0.0,,,False,True,19225.93730157087,False,0.014859299873933196,50,30,proposed: detect -> freshness rule
+0.15515515515515516,0.2665441176470588,6,0,,0.0,,,False,True,25997.761444412696,False,0.016505899489857256,50,30,proposed: detect -> freshness rule
+0.188,0.3203125,17,0,,0.0,,,False,True,12411.770310379245,False,0.025804600212723017,50,30,proposed: detect -> freshness rule
+0.17853560682046138,0.2813102119460501,11,0,,0.0,,,False,True,28884.721395662345,False,0.020922199822962284,50,30,proposed: detect -> freshness rule
+0.156,0.20955882352941177,5,0,,0.0,,,False,True,18538.236740130233,False,0.023163300706073642,50,30,proposed: detect -> freshness rule
+0.17269076305220885,0.3110687022900763,8,0,,0.0,,,False,True,32336.503554193245,False,0.014974799240007997,50,30,proposed: detect -> freshness rule
+0.177,0.32122370936902483,12,0,,0.0,,,False,True,9776.655648261483,False,0.04545320011675358,50,30,proposed: detect -> freshness rule
+0.165,0.28785046728971964,10,0,,0.0,,,False,True,40800.16078131064,False,0.02436519949696958,50,30,proposed: detect -> freshness rule
+0.17,0.2792452830188679,5,0,,0.0,,,False,True,21315.70855358147,False,0.018255700124427676,50,30,proposed: detect -> freshness rule

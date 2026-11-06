@@ -1,0 +1,25 @@
+config,q,success,victim_loss,attacker_net,confirm_delay_s,refused,detect_rate
+attacked (z=6),0.0,,0.0,,3314.8,0.0,0.0
+attacked (z=6),0.1,0.0,0.0,-1.562,3547.111,0.0,0.0
+attacked (z=6),0.2,0.0125,0.25,-4.175,3767.285,0.0,0.012
+attacked (z=6),0.3,0.075,1.5,-6.262,4480.031,0.0,0.075
+attacked (z=6),0.4,0.325,6.5,-3.012,5258.363,0.0,0.325
+attacked (z=6),0.45,0.525,10.5,-2.375,5686.262,0.0,0.525
+attacked (z=6),0.51,0.9125,18.25,9.025,6732.385,0.0,0.912
+attacked (z=6),0.6,0.975,19.5,15.588,7685.487,0.0,0.988
+proposed: adaptive confirmations,0.0,,0.0,,4336.591,0.0,0.0
+proposed: adaptive confirmations,0.1,0.0,0.0,-1.562,5508.782,0.0,0.0
+proposed: adaptive confirmations,0.2,0.0,0.0,-4.538,14181.307,0.0,0.0
+proposed: adaptive confirmations,0.3,0.0,0.0,-9.025,36026.193,0.0,0.0
+proposed: adaptive confirmations,0.4,0.0125,0.25,-19.188,47201.432,0.112,0.012
+proposed: adaptive confirmations,0.45,0.0875,1.75,-36.388,58518.847,0.612,0.088
+proposed: adaptive confirmations,0.51,0.025,0.5,-140.438,59161.951,0.938,0.038
+proposed: adaptive confirmations,0.6,0.0,0.0,-236.812,,0.988,0.0
+reference: checkpoint (max_reorg=4),0.0,,0.0,,3314.8,0.0,0.0
+reference: checkpoint (max_reorg=4),0.1,0.0,0.0,-1.562,3547.111,0.0,0.0
+reference: checkpoint (max_reorg=4),0.2,0.0,0.0,-4.775,3767.285,0.0,0.012
+reference: checkpoint (max_reorg=4),0.3,0.0,0.0,-9.925,4480.031,0.0,0.075
+reference: checkpoint (max_reorg=4),0.4,0.1125,2.25,-13.262,5258.363,0.0,0.325
+reference: checkpoint (max_reorg=4),0.45,0.2,4.0,-17.938,5686.262,0.0,0.512
+reference: checkpoint (max_reorg=4),0.51,0.275,5.5,-26.362,6732.385,0.0,0.9
+reference: checkpoint (max_reorg=4),0.6,0.1,2.0,-55.738,7685.487,0.0,0.988

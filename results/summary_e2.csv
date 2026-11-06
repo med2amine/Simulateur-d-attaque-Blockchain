@@ -1,0 +1,22 @@
+config,q,attacker_share,orphan_rate,detect_rate,detect_time_s
+attacked (first-seen),0.1,0.064,0.072,0.0,
+attacked (first-seen),0.2,0.168,0.115,0.0,
+attacked (first-seen),0.25,0.236,0.136,0.0,
+attacked (first-seen),0.3,0.316,0.157,0.0,
+attacked (first-seen),0.35,0.407,0.181,0.0,
+attacked (first-seen),0.4,0.512,0.211,0.0,
+attacked (first-seen),0.45,0.656,0.253,0.0,
+proposed: detect -> freshness rule,0.1,0.044,0.072,0.8,22995.82
+proposed: detect -> freshness rule,0.2,0.134,0.115,0.875,17363.588
+proposed: detect -> freshness rule,0.25,0.201,0.136,0.925,17440.566
+proposed: detect -> freshness rule,0.3,0.278,0.157,0.975,16387.416
+proposed: detect -> freshness rule,0.35,0.371,0.181,1.0,15644.712
+proposed: detect -> freshness rule,0.4,0.48,0.211,1.0,14656.905
+proposed: detect -> freshness rule,0.45,0.588,0.253,1.0,14486.57
+reference: random tie-break,0.1,0.072,0.073,0.0,
+reference: random tie-break,0.2,0.178,0.115,0.0,
+reference: random tie-break,0.25,0.25,0.135,0.0,
+reference: random tie-break,0.3,0.333,0.159,0.0,
+reference: random tie-break,0.35,0.431,0.184,0.0,
+reference: random tie-break,0.4,0.524,0.211,0.0,
+reference: random tie-break,0.45,0.682,0.259,0.0,
